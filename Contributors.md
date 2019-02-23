@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [trysh]
@@ -19,6 +19,7 @@
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Hassan]
+- [Piyush]
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
